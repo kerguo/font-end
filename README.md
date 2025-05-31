@@ -4,7 +4,7 @@ study font end of web
 test git fetch upstream
 
 test local git commit!!! by GarudaGuo This is kerguo. by local
-This is kerguo. second time
+This is kerguo. second time create a branch
 ### 安装 vue cli
 
 '''
